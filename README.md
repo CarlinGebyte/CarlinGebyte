@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CarlinGebyte
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning Java, JavaScript, Python, Git
-- 💞️ I’m looking to collaborate on One or 2 projects for learn and get experience and it's like if i can get paid for this jobs 
+- 💞️ I’m looking to collaborate in software projects to get experience and get a lot of knowledge 
 - 📫 How to reach me krapulayt@gmail.com
 
 <!---
