@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CarlinGebyte
 - 👀 I’m interested in programming - Software develop
-- 🌱 I’m currently learning NextJS, React, NodeJS, JavaScript, Python
+- 🌱 I’m currently learning NextJS, React, NodeJS, JavaScript/TypeScript, Python
 - 💞️ I’m looking to collaborate in software projects to get experience and get a lot of knowledge 
 - 📫 How to reach me krapulayt@gmail.com
 
