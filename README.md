@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @CarlinGebyte
-- 👀 I’m interested in programming - Software develop
-- 🌱 I’m currently learning NextJS, React, NodeJS, JavaScript/TypeScript, Python
-- 💞️ I’m looking to collaborate in software projects to get experience and get a lot of knowledge 
-- 📫 How to reach me krapulayt@gmail.com
+- 👋 Hi, I’m @CarlinGebyte FullStack Software Developer
+- I have 5 years of experience on Software Development, with React, NodeJS, TypeScript, JavaScript
+- I have 1 year of experience working with AWS services, like Lambda, Api Gateway, AWS CDK, Route 53, SES, DynamoDB, Amplify, Cognito
+- 🌱 I’m looking on Improve my Python, Java Skills
+- 📫 How to reach me work.pnjs3@aleeas.com
 
 <!---
 CarlinGebyte/CarlinGebyte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
