@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CarlinGebyte FullStack Software Developer
-- I have 5 years of experience on Software Development, with React, NodeJS, TypeScript, JavaScript
-- I have 1 year of experience working with AWS services, like Lambda, Api Gateway, AWS CDK, Route 53, SES, DynamoDB, Amplify, Cognito
+- I have experience on Software Development, with React, NodeJS, TypeScript, JavaScript
+- I have experience working with AWS services, like Lambda, Api Gateway, AWS CDK, Route 53, SES, DynamoDB, Amplify, Cognito
 - 🌱 I’m looking on Improve my Python, Java Skills
 - 📫 How to reach me work.pnjs3@aleeas.com
 
